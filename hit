@@ -1,0 +1,6 @@
+git init
+git mkdir kumari
+git cd kumari
+git int kumari.txt
+git ls kumari
+git
